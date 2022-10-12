@@ -11,9 +11,9 @@ In this exercise, we will create a Jenkins pipeline and execute it. this pipelin
 2. Create new pipeline item using **+ New Item** Option. provide the pipeline name and select Pipeline. name will be <'USERID'>-IN180, where user id is your login user id as shown in below example. Click on **ok** to complete pipeline creation.
 <br>![](/exercises/ex2/images/createpipeline.png)
 
-3. Provide the pipeline configuration, where Definition as "Pipeline script from SCM", SCM option as "GIT" and Repository URL, i.e. https://github.com/teched2022demo/IN180.git as shown below.
+3. Provide the pipeline configuration, where Definition as "Pipeline script from SCM", SCM option as "GIT" and Repository URL, i.e. https://github.com/<'GitHub-User'>/IN180.git as shown below.
   <br>![](/exercises/ex2/images/pipelineConfig.png)
-
+ >Replace <'GitHub-User'> with your GitHub account user name.
 4. Also provide the Branch specifier as your login user id and save the pipeline
   <br>![](/exercises/ex2/images/branchSpecifier.png)
 
