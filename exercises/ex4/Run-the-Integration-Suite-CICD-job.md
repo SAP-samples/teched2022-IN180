@@ -13,7 +13,7 @@ In this exercise, we will create and run the SAP Continuous Integration and Deli
 3. Provide repository details and remove the WEBHOOK Event Receiver.
 ```
 Name = <USERID>-CICD
-Clone URL = https://github.com/teched2022demo/IN180.git
+Clone URL = https://github.com/<'GitHub-User'>/IN180.git
 ```
 Remove WEBHOOK Event Receiver
 <br>![](/exercises/ex4/images/RemoveWebhook.png)
