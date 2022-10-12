@@ -104,6 +104,8 @@ git commit -m "IN180 Session Content"
 git branch -M <USERID>
 git push --set-upstream https://<Personal-access-token>@github.com/<GitHub-User>/IN180.git <USERID>
 ```
+>Replace the <'USERID'> with your login user id.
+
 Replace the <'Personal-access-token'> with the token you had created in the prerequisite section and <'GitHub-User'> with your GitHub account user name.
 
 you can see that the commit was successful if your logs look like this:
