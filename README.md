@@ -2,7 +2,7 @@
 
 ## Description
 
-In this session, you will learn how to use SAP Integration Suite Piper commands for building Continues integration and Continuous development pipeline. SAP Integration Suite has contributed many steps to the library for project ["**Piper**"](https://www.project-**Piper**.io/)  that help you create your own continuous integration (CI) and continuous deployment (CD) pipeline, automating various tasks. Learn how to set up CI/CD pipelines for SAP Integration Suite on Jenkins and [**Continuous Integration and Delivery service**](https://help.sap.com/docs/CICD_OVERVIEW).
+In this session, you will learn how to use SAP Integration Suite Piper commands for building Continues integration and Continuous development pipeline. SAP Integration Suite has contributed many steps to the library for project ["**Piper**"](https://www.project-piper.io)  that help you create your own continuous integration (CI) and continuous deployment (CD) pipeline, automating various tasks. Learn how to set up CI/CD pipelines for SAP Integration Suite on Jenkins and [**Continuous Integration and Delivery service**](https://help.sap.com/docs/CICD_OVERVIEW).
 
 ## Overview
 
