@@ -4,7 +4,7 @@ In this exercise, we will create and run the SAP Continuous Integration and Deli
 
 ## Exercise 4.1 Setup CICD service Job for the Integration Suite Artifacts
 
-1. Login to the SAP Continuous Integration and Delivery service using instructor provided URL and tenant booker app generated login credentials.
+1. Login to the SAP Continuous Integration and Delivery service using [instructor provided URL](https://techedio2019.cicd.cfapps.eu10.hana.ondemand.com/ui/index.html) and tenant booker app generated login credentials.
 <br>![](/exercises/ex4/images/cicdLogin.png)
 
 2. Click on Repositories tab and add new repository.
