@@ -4,7 +4,7 @@ In this exercise, we will create a Jenkins pipeline and execute it. this pipelin
 
 ## Exercise 2.1 Setup Jenkins Pipeline for the Git repository
 
-1. Login to the Jenkins service using instructor provided URL and tenant booker app generated login credentials.
+1. Login to the Jenkins service using [instructor provided URL](http://3.234.60.205:8080/) and tenant booker app generated login credentials.
 <br>![](/exercises/ex2/images/JenkinsLogin.png)
 >Select **New Item**
 
