@@ -9,7 +9,7 @@ In this session, you will learn how to use SAP Integration Suite Piper commands 
 In this session you will learn how to set up a CI/CD pipeline for **SAP Integration Suite** in two ways:
 1. Using a Jenkins instance and creating the pipeline yourself using **Piper** commands developed specifically for **SAP Integration Suite**.
 2. Making use of SAP's [**Continuous Integration and Delivery service**](https://help.sap.com/docs/CICD_OVERVIEW), which has a ready-to-use pipeline for the **SAP Integration Suite** scenario.
-
+ > INT180 Session presentation you can access [here](2022-SAP-TechEd-IN180.pdf)
 ## Requirements
 
 The requirements to follow the exercises in this repository -  
@@ -19,7 +19,7 @@ The requirements to follow the exercises in this repository -
   - [Overview of SAP Offerings for CI and CD](https://help.sap.com/docs/CICD_OVERVIEW/8cacec64ed854b2a88e9a0973e0f97a2/e9fa320181124fa9808d4446a1bf69dd.html)
   - [CI/CD for **SAP Integration Suite** using **Piper** Commands](https://blogs.sap.com/2021/06/02/ci-cd-for-sap-integration-suite-here-you-go/)
   - [CI/CD for **SAP Integration Suite** using the **SAP Continuous Integration and Delivery service**](https://blogs.sap.com/2021/08/27/sap-continuous-integration-and-delivery-for-sap-integration-suite-artifacts/)
-> INT180 Session presentation you can access [here](2022-SAP-TechEd-IN180.pdf)
+
 ## Integration Scenario Details
 This session uses very simple integration flow. This integration flow has a timer start and hence it will be executed on deployment.
 <br>![](/exercises/images/Scenario.png)
