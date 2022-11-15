@@ -19,7 +19,7 @@ The requirements to follow the exercises in this repository -
   - [Overview of SAP Offerings for CI and CD](https://help.sap.com/docs/CICD_OVERVIEW/8cacec64ed854b2a88e9a0973e0f97a2/e9fa320181124fa9808d4446a1bf69dd.html)
   - [CI/CD for **SAP Integration Suite** using **Piper** Commands](https://blogs.sap.com/2021/06/02/ci-cd-for-sap-integration-suite-here-you-go/)
   - [CI/CD for **SAP Integration Suite** using the **SAP Continuous Integration and Delivery service**](https://blogs.sap.com/2021/08/27/sap-continuous-integration-and-delivery-for-sap-integration-suite-artifacts/)
-
+> INT180 Session presentation you can access [here](2022-SAP-TechEd-IN180.pdf)
 ## Integration Scenario Details
 This session uses very simple integration flow. This integration flow has a timer start and hence it will be executed on deployment.
 <br>![](/exercises/images/Scenario.png)
