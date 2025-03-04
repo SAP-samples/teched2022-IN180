@@ -1,3 +1,10 @@
+## Deprecation Notice
+
+This public repository is read-only and no longer maintained.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-IN180)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-IN180)
 
 # IN180 - Leveraging Commands from “Piper” for CI/CD Setup with SAP Integration Suite
